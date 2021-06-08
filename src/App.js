@@ -7,7 +7,7 @@ import Sideber from './Sideber';
 import { useStateValue } from './StateProvider';
 import Widgets from './Widgets';
 
-//Ahmed
+// Ahmed //
 
 function App() {
   const [{user}, dispatch] = useStateValue();
